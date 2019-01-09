@@ -1,6 +1,8 @@
 .intro {
   color: red;
   font-style: italic;
+  margin-top: 500px;
+  margin-bottom: 500px;
 }
 
 h2.intro{

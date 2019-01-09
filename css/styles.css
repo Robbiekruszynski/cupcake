@@ -9,13 +9,21 @@
 }
 
 .sidebar{
+  border: 12px solid blue;
+  padding: 4px;
   float: right;
   color: black;
   background-color: teal;
   width: 100px;
+  margin: 12px;
 }
 
 .columns {
   width: 600px;
   float: right;
+  background-color: goldenrod;
+}
+
+.picture-time {
+  padding: 500px;
 }
