@@ -7,3 +7,15 @@
   color: blue;
   font-size: 300px;
 }
+
+.sidebar{
+  float: right;
+  color: black;
+  background-color: teal;
+  width: 100px;
+}
+
+.columns {
+  width: 600px;
+  float: right;
+}
